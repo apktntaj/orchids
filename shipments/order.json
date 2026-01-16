@@ -1,0 +1,522 @@
+{
+  "order_summary": {
+    "total_orders": 11,
+    "total_pallets": 190,
+    "total_customers": 11,
+    "order_date": "2026-01-16",
+    "status": "to_be_packed"
+  },
+  "orders": [
+    {
+      "customer_id": "GENM001",
+      "customer_name": "General Meats",
+      "total_pallets": 8,
+      "eta": "2026-01-23",
+      "ready_date": "2026-01-16",
+      "packed_by": "ESME",
+      "priority": "high",
+      "items": [
+        {
+          "box_size": "11lb",
+          "grade": "Large",
+          "top_color": "White",
+          "pallets": 3,
+          "cases": null,
+          "notes": null
+        },
+        {
+          "box_size": "4lb",
+          "grade": "Large",
+          "top_color": "White",
+          "pallets": 3,
+          "cases": null,
+          "notes": null
+        },
+        {
+          "box_size": "2lb",
+          "grade": "Large",
+          "top_color": "White",
+          "pallets": 1,
+          "cases": null,
+          "notes": null
+        },
+        {
+          "box_size": "9lb",
+          "grade": "Large",
+          "top_color": null,
+          "pallets": 1,
+          "cases": null,
+          "notes": "conditional - pack if available"
+        }
+      ]
+    },
+    {
+      "customer_id": "YAFA001",
+      "customer_name": "YAFA",
+      "total_pallets": 5,
+      "eta": null,
+      "ready_date": "2026-01-16",
+      "packed_by": "ESME",
+      "priority": "high",
+      "items": [
+        {
+          "box_size": "4lb",
+          "grade": "Large",
+          "top_color": "Yafa Top",
+          "pallets": 3,
+          "cases": null,
+          "notes": null
+        },
+        {
+          "box_size": "2lb",
+          "grade": "Large",
+          "top_color": "Yafa Top",
+          "pallets": 2,
+          "cases": 102,
+          "notes": "102 master cartons"
+        }
+      ]
+    },
+    {
+      "customer_id": "INTM001",
+      "customer_name": "International Market (SHAY)",
+      "total_pallets": 5,
+      "eta": "2026-01-20",
+      "ready_date": null,
+      "packed_by": null,
+      "priority": "medium",
+      "items": [
+        {
+          "box_size": "11lb",
+          "grade": "Choice",
+          "top_color": "Red Orchid",
+          "pallets": 4,
+          "cases": null,
+          "notes": "should be shipped third week of Jan"
+        },
+        {
+          "box_size": "4lb",
+          "grade": "Choice",
+          "top_color": "Red Orchid",
+          "pallets": 1,
+          "cases": null,
+          "notes": "should be shipped third week of Jan"
+        }
+      ]
+    },
+    {
+      "customer_id": "LIPA001",
+      "customer_name": "Lipari Foods",
+      "total_pallets": 87,
+      "eta": null,
+      "ready_date": null,
+      "packed_by": null,
+      "priority": "critical",
+      "items": [
+        {
+          "box_size": "11lb",
+          "grade": "Fancy",
+          "top_color": "Alshark",
+          "pallets": 36,
+          "cases": null,
+          "notes": null
+        },
+        {
+          "box_size": "7lb",
+          "grade": "Fancy",
+          "top_color": "Orchid",
+          "pallets": 33,
+          "cases": null,
+          "notes": null
+        },
+        {
+          "box_size": "4lb",
+          "grade": "Fancy",
+          "top_color": "Alshark",
+          "pallets": 18,
+          "cases": 125,
+          "notes": "18 pallets + 125 extra cases"
+        }
+      ]
+    },
+    {
+      "customer_id": "HOLY001",
+      "customer_name": "HolyLand",
+      "total_pallets": 21,
+      "eta": null,
+      "ready_date": null,
+      "packed_by": null,
+      "priority": "medium",
+      "items": [
+        {
+          "box_size": "2lb",
+          "grade": "Choice",
+          "top_color": "Red",
+          "pallets": 2,
+          "cases": 112,
+          "notes": null
+        },
+        {
+          "box_size": "2lb",
+          "grade": "Fancy",
+          "top_color": "White",
+          "pallets": 5,
+          "cases": 280,
+          "notes": null
+        },
+        {
+          "box_size": "2lb",
+          "grade": "Large",
+          "top_color": "Brown",
+          "pallets": 2,
+          "cases": 112,
+          "notes": "Organic"
+        },
+        {
+          "box_size": "4lb",
+          "grade": "Choice",
+          "top_color": "Gray",
+          "pallets": 2,
+          "cases": null,
+          "notes": null
+        },
+        {
+          "box_size": "4lb",
+          "grade": "Fancy",
+          "top_color": "White",
+          "pallets": 1,
+          "cases": null,
+          "notes": "Soft"
+        },
+        {
+          "box_size": "4lb",
+          "grade": "Large",
+          "top_color": "White",
+          "pallets": 1,
+          "cases": null,
+          "notes": "Soft"
+        },
+        {
+          "box_size": "9lb",
+          "grade": "Choice",
+          "top_color": "Gray",
+          "pallets": 2,
+          "cases": 440,
+          "notes": null
+        },
+        {
+          "box_size": "9lb",
+          "grade": "Fancy",
+          "top_color": "White",
+          "pallets": 1,
+          "cases": null,
+          "notes": null
+        },
+        {
+          "box_size": "25lb",
+          "grade": "Fancy",
+          "top_color": "Brown",
+          "pallets": 2,
+          "cases": 180,
+          "notes": null
+        },
+        {
+          "box_size": "25lb",
+          "grade": "Large",
+          "top_color": "Brown",
+          "pallets": 1,
+          "cases": 90,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "customer_id": "GREE001",
+      "customer_name": "Green Vine Market",
+      "total_pallets": 2,
+      "eta": null,
+      "ready_date": null,
+      "packed_by": null,
+      "priority": "low",
+      "items": [
+        {
+          "box_size": "4lb",
+          "grade": "Large",
+          "top_color": null,
+          "pallets": 2,
+          "cases": null,
+          "notes": "Soft"
+        }
+      ]
+    },
+    {
+      "customer_id": "INDI001",
+      "customer_name": "India Farmers",
+      "total_pallets": 8,
+      "eta": null,
+      "ready_date": null,
+      "packed_by": null,
+      "priority": "medium",
+      "items": [
+        {
+          "box_size": "1lb",
+          "grade": "Fancy",
+          "top_color": "FIRDOUS",
+          "pallets": 1,
+          "cases": 70,
+          "notes": "FIRDOUS Medjool fancy brand - 70mc"
+        },
+        {
+          "box_size": "2lb",
+          "grade": "Fancy",
+          "top_color": "FIRDOUS",
+          "pallets": 2,
+          "cases": 130,
+          "notes": "FIRDOUS Medjool fancy brand - 130mc"
+        },
+        {
+          "box_size": "11lb",
+          "grade": "Fancy",
+          "top_color": "FIRDOUS",
+          "pallets": 5,
+          "cases": 910,
+          "notes": "FIRDOUS Medjool fancy brand"
+        }
+      ]
+    },
+    {
+      "customer_id": "OMPR001",
+      "customer_name": "OM Produce",
+      "total_pallets": 4,
+      "eta": null,
+      "ready_date": null,
+      "packed_by": null,
+      "priority": "low",
+      "items": [
+        {
+          "box_size": "2lb",
+          "grade": "Choice",
+          "top_color": null,
+          "pallets": 2,
+          "cases": null,
+          "notes": null
+        },
+        {
+          "box_size": "1lb",
+          "grade": "Choice",
+          "top_color": null,
+          "pallets": 2,
+          "cases": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "customer_id": "DESH001",
+      "customer_name": "Deshi",
+      "total_pallets": 20,
+      "eta": null,
+      "ready_date": null,
+      "packed_by": null,
+      "priority": "high",
+      "items": [
+        {
+          "box_size": "2lb",
+          "grade": "Fancy",
+          "top_color": "Shahi",
+          "pallets": 9,
+          "cases": null,
+          "notes": null
+        },
+        {
+          "box_size": "4lb",
+          "grade": "Fancy",
+          "top_color": "Shahi",
+          "pallets": 9,
+          "cases": null,
+          "notes": null
+        },
+        {
+          "box_size": "11lb",
+          "grade": "Fancy",
+          "top_color": "Orchid",
+          "pallets": 2,
+          "cases": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "customer_id": "NEWR001",
+      "customer_name": "New Royal",
+      "total_pallets": 11,
+      "eta": null,
+      "ready_date": null,
+      "packed_by": null,
+      "priority": "medium",
+      "items": [
+        {
+          "box_size": "11lb",
+          "grade": "Large",
+          "top_color": "Purple Box",
+          "pallets": 3,
+          "cases": null,
+          "notes": null
+        },
+        {
+          "box_size": "11lb",
+          "grade": "Fancy",
+          "top_color": "Red Box",
+          "pallets": 4,
+          "cases": null,
+          "notes": null
+        },
+        {
+          "box_size": "4lb",
+          "grade": "Large",
+          "top_color": "Purple Box",
+          "pallets": 2,
+          "cases": null,
+          "notes": null
+        },
+        {
+          "box_size": "2lb",
+          "grade": "Large",
+          "top_color": "Purple Box",
+          "pallets": 2,
+          "cases": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "customer_id": "FAMO001",
+      "customer_name": "Famous Foods",
+      "total_pallets": 20,
+      "eta": null,
+      "ready_date": null,
+      "packed_by": null,
+      "priority": "medium",
+      "items": [
+        {
+          "box_size": "11lb",
+          "grade": "Fancy",
+          "top_color": null,
+          "pallets": 8,
+          "cases": null,
+          "notes": "Medjool Fancy"
+        },
+        {
+          "box_size": "4lb",
+          "grade": "Fancy",
+          "top_color": null,
+          "pallets": 4,
+          "cases": null,
+          "notes": "Medjool Fancy"
+        },
+        {
+          "box_size": "2lb",
+          "grade": "Fancy",
+          "top_color": null,
+          "pallets": 2,
+          "cases": null,
+          "notes": "Medjool Fancy"
+        },
+        {
+          "box_size": "1lb",
+          "grade": "Choice",
+          "top_color": null,
+          "pallets": 6,
+          "cases": null,
+          "notes": "Medjool Choice"
+        }
+      ]
+    }
+  ],
+  "aggregated_stats": {
+    "by_grade": {
+      "Fancy": {
+        "total_pallets": 110,
+        "percentage": 57.9
+      },
+      "Large": {
+        "total_pallets": 50,
+        "percentage": 26.3
+      },
+      "Choice": {
+        "total_pallets": 30,
+        "percentage": 15.8
+      }
+    },
+    "by_box_size": {
+      "11lb": 65,
+      "4lb": 42,
+      "7lb": 33,
+      "2lb": 34,
+      "9lb": 4,
+      "25lb": 3,
+      "1lb": 9
+    },
+    "by_priority": {
+      "critical": 87,
+      "high": 33,
+      "medium": 62,
+      "low": 6
+    },
+    "urgent_orders": [
+      {
+        "customer": "General Meats",
+        "pallets": 8,
+        "deadline": "2026-01-16"
+      },
+      {
+        "customer": "YAFA",
+        "pallets": 5,
+        "deadline": "2026-01-16"
+      },
+      {
+        "customer": "International Market",
+        "pallets": 5,
+        "deadline": "2026-01-20"
+      }
+    ]
+  },
+  "special_requirements": {
+    "organic": [
+      {
+        "customer": "HolyLand",
+        "item": "2lb Large Brown Top",
+        "pallets": 2,
+        "cases": 112
+      }
+    ],
+    "soft_variant": [
+      {
+        "customer": "HolyLand",
+        "items": ["4lb Fancy Soft", "4lb Large Soft"],
+        "pallets": 2
+      },
+      {
+        "customer": "Green Vine Market",
+        "item": "4lb Large Soft",
+        "pallets": 2
+      }
+    ],
+    "branded": [
+      {
+        "customer": "India Farmers",
+        "brand": "FIRDOUS Medjool",
+        "pallets": 8,
+        "total_units": "70mc + 130mc + 910cs"
+      }
+    ],
+    "conditional": [
+      {
+        "customer": "General Meats",
+        "item": "9lb Large",
+        "pallets": 1,
+        "condition": "pack only if available"
+      }
+    ]
+  }
+}

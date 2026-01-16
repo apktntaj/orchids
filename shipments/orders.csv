@@ -1,0 +1,39 @@
+customer_id,customer_name,total_pallets,eta,ready_date,packed_by,priority,box_size,grade,top_color,pallets,cases,notes
+GENM001,General Meats,8,2026-01-23,2026-01-16,ESME,high,11lb,Large,White,3,,
+GENM001,General Meats,8,2026-01-23,2026-01-16,ESME,high,4lb,Large,White,3,,
+GENM001,General Meats,8,2026-01-23,2026-01-16,ESME,high,2lb,Large,White,1,,
+GENM001,General Meats,8,2026-01-23,2026-01-16,ESME,high,9lb,Large,,1,,conditional - pack if available
+YAFA001,YAFA,5,,2026-01-16,ESME,high,4lb,Large,Yafa Top,3,,
+YAFA001,YAFA,5,,2026-01-16,ESME,high,2lb,Large,Yafa Top,2,102,102 master cartons
+INTM001,International Market (SHAY),5,2026-01-20,,,medium,11lb,Choice,Red Orchid,4,,should be shipped third week of Jan
+INTM001,International Market (SHAY),5,2026-01-20,,,medium,4lb,Choice,Red Orchid,1,,should be shipped third week of Jan
+LIPA001,Lipari Foods,87,,,,critical,11lb,Fancy,Alshark,36,,
+LIPA001,Lipari Foods,87,,,,critical,7lb,Fancy,Orchid,33,,
+LIPA001,Lipari Foods,87,,,,critical,4lb,Fancy,Alshark,18,125,18 pallets + 125 extra cases
+HOLY001,HolyLand,21,,,,medium,2lb,Choice,Red,2,112,
+HOLY001,HolyLand,21,,,,medium,2lb,Fancy,White,5,280,
+HOLY001,HolyLand,21,,,,medium,2lb,Large,Brown,2,112,Organic
+HOLY001,HolyLand,21,,,,medium,4lb,Choice,Gray,2,,
+HOLY001,HolyLand,21,,,,medium,4lb,Fancy,White,1,,Soft
+HOLY001,HolyLand,21,,,,medium,4lb,Large,White,1,,Soft
+HOLY001,HolyLand,21,,,,medium,9lb,Choice,Gray,2,440,
+HOLY001,HolyLand,21,,,,medium,9lb,Fancy,White,1,,
+HOLY001,HolyLand,21,,,,medium,25lb,Fancy,Brown,2,180,
+HOLY001,HolyLand,21,,,,medium,25lb,Large,Brown,1,90,
+GREE001,Green Vine Market,2,,,,low,4lb,Large,,2,,Soft
+INDI001,India Farmers,8,,,,medium,1lb,Fancy,FIRDOUS,1,70,FIRDOUS Medjool fancy brand - 70mc
+INDI001,India Farmers,8,,,,medium,2lb,Fancy,FIRDOUS,2,130,FIRDOUS Medjool fancy brand - 130mc
+INDI001,India Farmers,8,,,,medium,11lb,Fancy,FIRDOUS,5,910,FIRDOUS Medjool fancy brand
+OMPR001,OM Produce,4,,,,low,2lb,Choice,,2,,
+OMPR001,OM Produce,4,,,,low,1lb,Choice,,2,,
+DESH001,Deshi,20,,,,high,2lb,Fancy,Shahi,9,,
+DESH001,Deshi,20,,,,high,4lb,Fancy,Shahi,9,,
+DESH001,Deshi,20,,,,high,11lb,Fancy,Orchid,2,,
+NEWR001,New Royal,11,,,,medium,11lb,Large,Purple Box,3,,
+NEWR001,New Royal,11,,,,medium,11lb,Fancy,Red Box,4,,
+NEWR001,New Royal,11,,,,medium,4lb,Large,Purple Box,2,,
+NEWR001,New Royal,11,,,,medium,2lb,Large,Purple Box,2,,
+FAMO001,Famous Foods,20,,,,medium,11lb,Fancy,,8,,Medjool Fancy
+FAMO001,Famous Foods,20,,,,medium,4lb,Fancy,,4,,Medjool Fancy
+FAMO001,Famous Foods,20,,,,medium,2lb,Fancy,,2,,Medjool Fancy
+FAMO001,Famous Foods,20,,,,medium,1lb,Choice,,6,,Medjool Choice
