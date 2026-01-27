@@ -1,0 +1,17 @@
+{
+  "name": "orchids",
+  "version": "1.0.0",
+  "description": "This repository contains data and scripts for managing the supply chain operations of Orchids, a supplier of dates. It includes order processing, shipment calculations, invoice tracking, bills of lading, and supplier partnership information.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "in-xtractor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.3",
+    "pdf-parse": "^2.4.5",
+    "tesseract.js": "^7.0.0"
+  }
+}

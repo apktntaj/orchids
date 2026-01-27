@@ -1,34 +1,59 @@
 customer_name,box_size,grade,top_color,pallets,cases,notes
+General Meats,11lb,Large,White Top,3,,
+General Meats,4lb,Large,White Top,3,,
+General Meats,2lb,Large,White Top,1,,
+General Meats,9lb,Large,,1,,in case it's available
+YAFA,4lb,Large,Yafa Top,3,,,
+YAFA,2lb,Large,Yafa Top,2,102,,
+International Market (SHAY),11lb,Choice,Red Orchid Top,4,,
+International Market (SHAY),4lb,Choice,Red Orchid Top,4,,
+Lipari Foods,11lb,Fancy,,36,,
+Lipari Foods,7lb,Fancy,,3,,
+Lipari Foods,4lb,Fancy,,18,,+125 cs
+HolyLand,4lb,Choice,Gray Top,2,,
+HolyLand,4lb,Fancy Soft,White Top,1,,
+HolyLand,4lb,Large Soft,White Top,1,,
 HolyLand,9lb,Choice,Gray Top,2,440.0,
 HolyLand,9lb,Fancy,White Top,1,,
 HolyLand,25lb,Fancy,Brown Top,2,180.0,
-HolyLand,25lb,Large,Brown Top,1,90.0,
-HolyLand,Green,Vine,Market 4lb Large Soft,2,,
-India Farmers,2lb,Choice,,2,,
-India Farmers,1lb,Choice,,2,,
-India Farmers,11lb,Fancy,-Gray top,10,,
-India Farmers,OM,produce,11lb Choice -Red top,4,,
-India Farmers,4lb,Fancy,-Gray top,5,,
-India Farmers,2lb,Fancy,-White top,12,,
-India Farmers,1lb,Fancy,-Clamshell,8,,""""
-India Farmers,2lb,Fancy,Shahi Top,9,,
-India Farmers,Deshi,4lb,Fancy Shahi Top,9,,
-India Farmers,11lb,Fancy,Orchid Top,2,,
-India Farmers,11lb,Medjool,Fancy,8,,
-India Farmers,4,lb,Medjool Fancy,4,,
-Famous Foods,2,lb,Medjool Fancy,2,,
-Famous Foods,1,lb,Medjool Choice,6,,
-Famous Foods,11lb,Large,,1,,
-Famous Foods,11lb,choice,,2,,
-Famous Foods,4lb,large,,1,,(448cs)
-Blue Fig,2lb,Choice,,1,,(56MC)
-Blue Fig,2lb,x,Fancy,0,,half pallet (28MC)
-Blue Fig,11lb,Jumbo,,0,,50 cs
-Blue Fig,11lb,Large,,0,,50 cs
-Blue Fig,Cedar,Market,4lb Jumbo,0,,150 cs
-Blue Fig,4lb,Soft,Jumbo,0,,100 cs
-Blue Fig,2lb,Large,or Jumbo,0,,100 cs
-Blue Fig,11lb,choice,,3,,
-Blue Fig,2lb,Fancy,White Top,2,112.0,
-Blue Fig,2lb,Fancy,Organic Brown Top,2,,(112
-Kemal Pasha,2lb,Large,Orange Top,2,112.0,
+HolyLand,25lb,Large,Brown Top,1,90.0,,
+Green Vine Market,4lb,Large Soft,,2,,
+India Farmers,1lb,Fancy,,1,,70mc
+India Farmers,2lb,Fancy,,2,,130mc
+India Farmers,11lb,Fancy,,5,910,
+OM produce,2lb,Choice,,2,,
+OM produce,1lb,Choice,,2,,
+OM produce,11lb,Fancy,Gray Top,10,,
+OM produce,11lb,Choice,Red Top,4,,
+OM produce,4lb,Fancy,Gray Top,5,,
+OM produce,2lb,Fancy,White Top,12,,
+OM produce,1lb,Fancy,Clamshell,8,,
+Deshi,2lb,Fancy,Shahi Top,9,,
+Deshi,4lb,Fancy,Shahi Top,9,,
+Deshi,11lb,Fancy,Orchid Top,2,,
+New Royal,11lb,Large,Purple Box,3,,
+New Royal,11lb,Fancy,Red Box,4,,
+New Royal,4lb,Large,Purple Box,2,,
+New Royal,2lb,Large,Purple Box,2,,
+Famous Foods,11lb,Fancy,,8,,
+Famous Foods,4lb,Fancy,,4,,
+Famous Foods,2lb,Fancy,,2,,
+Famous Foods,1lb,Choice,,6,,
+Blue Fig,11lb,Large,,1,,
+Blue Fig,11lb,Jumbo,,0.5,,
+Blue Fig,11lb,Choice,,2,,
+Blue Fig,4lb,Large,,1,448,
+Blue Fig,4lb,Choice,,1,448,
+Blue Fig,4lb,Jumbo,,0.5,224,
+Blue Fig,2lb,Large,,1,,56mc
+Blue Fig,2lb,Choice,,1,,56mc
+Blue Fig,2lb,Fancy,,0.5,,28mc
+Cedar Market,11lb,Jumbo,,,50,
+Cedar Market,11lb,Large,,,50,
+Cedar Market,4lb,Jumbo,,,150,
+Cedar Market,4lb,Soft Jumbo,,,100,
+Cedar Market,2lb,Jumbo,,,100, Large of Jumbo
+Daar Al-Islam Mosque St.Louis,11lb,Choice,,3,,
+Kemal Pasha,2lb,Fancy,White Top,2,,112mc
+Kemal Pasha,2lb,Fancy Organic,Brown Top,2,,112mc
+Kemal Pasha,2lb,Large,Orange Top,2,,112mc
